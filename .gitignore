@@ -1,6 +1,10 @@
 *.tec
 *.csv
 *.o
+*.mod
+*.jpg
+*.mpeg
+*.avi
 
 .DS_Store
 .DS_Store?
