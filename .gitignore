@@ -1,0 +1,8 @@
+*.tec
+*.csv
+*.o
+
+.DS_Store
+.DS_Store?
+.Trashes
+Thumbs.db
