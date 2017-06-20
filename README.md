@@ -1,5 +1,5 @@
 # Fsolver
-3D CFD solver on structured grid
+Parallel 3D CFD solver on structured grid
 
 Uses Chorin's projection method
 
